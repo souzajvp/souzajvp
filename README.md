@@ -6,7 +6,7 @@ My thesis is on computational approaches to handle Tuberculosis and I work with 
 
 In addition to my thesis, I am venturing more into data science working with global health at the Global Emergency Medicine Innovation & Implementation Research Lab (Duke University).
 
-Where to find my scentific work:<br>
+Where to find my scientific work:<br>
 [![ResearchGate Badge](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Joao-Souza-16)
 
 I also publish small articles about the interface of datascience, health and scientific research at: <br>
